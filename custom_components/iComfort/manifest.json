@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@TimoWolfinger"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/TimoWolfinger/revIComfortHomeAssistant",
+  "domain": "iComfort",
+  "iot_class": "local_polling",
+  "name": "REV Ritter IComfort",
+  "requirements": [],
+  "version": "1.0.0"
+}
