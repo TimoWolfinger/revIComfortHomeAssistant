@@ -1,1 +1,5 @@
 DOMAIN = "iComfort"
+
+CONF_ICOMFORT_BRIDGE_IP = "iComfort_bridge_ip"
+DEFAULT_PORT = 5555
+DEFAULT_DEVIVE_CLASS = "auto"
